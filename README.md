@@ -1,5 +1,4 @@
 # Sales-Performance-Profitability-Dashboard
-# Sales Dashboard
 
 ## Overview
 
